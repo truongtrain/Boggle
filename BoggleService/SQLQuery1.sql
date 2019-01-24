@@ -1,0 +1,1 @@
+﻿delete from Games; delete from Words;delete from Users;

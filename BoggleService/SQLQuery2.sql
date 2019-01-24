@@ -1,0 +1,1 @@
+﻿update Games set GameState = 'completed' where GameID =870
